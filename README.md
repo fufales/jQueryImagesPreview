@@ -7,6 +7,28 @@ Galería de imágenes con jQuery muy facil de usar.
 DEMO ONLINE
 </a>
 
+Resumen
+=======
+- <b>Archivos importantes que debémos indexar:</b>
+<br>
+<b>js</b> / <code>jquery.imagespreview.js</code> : Archivo que contiene nuestro plugin.<br>
+<b>css</b> / <code>imagespreview.css</code> : Archivo que contiene los estilos de nuestro plugin.<br>
+<b>img</b> / <code>close_window.png</code> : Icono para cerrar la ventana del popup.<br>
+<b>img</b> /<code> repead_jque_img.png</code> : Imagen que crea la parte negra del popup.<br>
+<br>
+- <b>Uso</b>
+
+        <span class="jq_Impreview" data-loadimgjpreview="img/images/img1.jpg">
+        	<img src=" img/image_1.jpg " alt="img">
+        </span>
+<code>data-loadimgjpreview</code> es la URL de la imagen que querémos cargar.
+
+Screens
+=======
+<img src="img/screen_1.png">
+<br>
+<img src="img/screen_2.png">
+
 Instalacion y archivos importantes
 ==================================
 
@@ -15,10 +37,10 @@ Instalacion y archivos importantes
               <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
               
 - Ya instalado jQuery en nuestro index; podémos en ese caso instalar nuestra Galería añadíendo los siguientes archivos<br><br>
-<b>js</b> / jquery.imagespreview.js : Archivo que contiene nuestro plugin.<br>
-<b>css</b> / imagespreview.css : Archivo que contiene los estilos de nuestro plugin.<br>
-<b>img</b> / close_window.png : Icono para cerrar la ventana del popup.<br>
-<b>img</b> / repead_jque_img.png : Imagen que crea la parte negra del popup.<br>
+<b>js</b> / <code>jquery.imagespreview.js</code> : Archivo que contiene nuestro plugin.<br>
+<b>css</b> / <code>imagespreview.css</code> : Archivo que contiene los estilos de nuestro plugin.<br>
+<b>img</b> / <code>close_window.png</code> : Icono para cerrar la ventana del popup.<br>
+<b>img</b> /<code> repead_jque_img.png</code> : Imagen que crea la parte negra del popup.<br>
 
 - Una vez instalado todo, se debería ver el HTML de la siguiente forma (Leér los comentários del HTML):
 
