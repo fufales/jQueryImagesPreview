@@ -2,6 +2,8 @@ jQueryImagesPreview
 ===================
 
 Galería de imágenes con jQuery muy facil de usar.
+<br>
+<img src="img/logo.png">
 
 <a target="_new" href="http://fufales.com/frameworks/jQueryImagesPreview/">
 DEMO ONLINE
